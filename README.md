@@ -11,7 +11,7 @@ This repository serves as a personal lab to learn, test, and showcase frontend c
 - State management in Vanilla JS
 - Modern CSS practices
 
-## 🔧 Tech Stack
+##  Tech Stack
 - JavaScript (ES6+)
 - HTML5
 - CSS3 (Flexbox, Grid, Variables)
